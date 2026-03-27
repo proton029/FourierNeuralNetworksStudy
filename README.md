@@ -13,7 +13,7 @@
 
 <img width="1037" height="651" alt="image" src="https://github.com/user-attachments/assets/29f850ae-c228-45c4-915c-33be3d0547ef" />
 
-## For Smooth Wave FNN was much better
+## For Smooth Wave FNN was much better but still behind ANN 
 
 <img width="1007" height="659" alt="image" src="https://github.com/user-attachments/assets/38a9351d-c926-4e97-b9cc-a1d3a43b0ece" />
 
