@@ -2,3 +2,6 @@ fourier_vs_mlp.png
 fourier_nn_fourier_series_approximation_-_smooth_function.png
 fourier_nn_fourier_series_approximation_-_sawtooth_wave.png
 venv
+.ipynb_checkpoints
+Google_Stock_Price_Test.csv
+Google_Stock_Price_Train.csv

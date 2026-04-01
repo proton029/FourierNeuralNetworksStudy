@@ -1,4 +1,4 @@
-# For Study purpose only
+# For Study purpose only <MAIN BRANCH>
 ## This project is created as a part of learning how Artificial Neural Networks learn
 
 ### While Understanding ANNs, Understood that ANN is basically a Function Approximator, so with that in mind I also thought of a function approximater that caught my interest back in college days which was the 
@@ -20,5 +20,6 @@
 ## Error Comparison
 <img width="1386" height="479" alt="image" src="https://github.com/user-attachments/assets/a37db50e-0a71-45b0-97a0-ee352c3c3a72" />
 
-
+#LSTM implementation at LSTM Branch
+### predicting google stock price data
 
